@@ -1,4 +1,4 @@
-# My-own-crypto
+# MEMECOIN
 
 This project implements a basic blockchain for a cryptocurrency called MemeCoin, using Python and Flask. It demonstrates key concepts like mining, transactions, and decentralization. The blockchain is designed to allow nodes to communicate and synchronize with each other.
 
